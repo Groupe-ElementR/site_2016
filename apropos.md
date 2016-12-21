@@ -8,21 +8,14 @@ Le **Groupe ElementR** est constitué d’une vingtaine de membres aux statuts d
 
 Le groupe est hébergé par l'UMR 8504 Géographie-cités (unité mixte de l'Université Paris Panthéon-Sorbonne, l'Université Paris Diderot et le CNRS).
 
-- site Internet : 
-
-> https://groupe-elementr.github.io
+- [site Internet](https://groupe-elementr.github.io)
 
 - adresse postale : 
+	Groupe ElementR
+	UMR 8504 Géographie-cités
+	13, rue du Four	
+	75006 Paris
 
-> Groupe ElementR
-> UMR 8504 Géographie-cités
-> 13, rue du Four
-> 75006 Paris
+- adresse mail: elementr[at]parisgeo.cnrs.fr
 
-- adresse mail : 
-
-> elementr [at] parisgeo.cnrs.fr
-
-- compte Github : 
-
-> https://github.com/Groupe-ElementR
+- [compte Github](https://github.com/Groupe-ElementR)
