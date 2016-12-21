@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Agrégation des préférences
-subtitle: Condorcet et l'utilité ordinale
+title: Condorcet et l'utilité ordinale
+subtitle: agrégation des préférences
 ---
-
-
-
-## Définitions
 
 La question de l'agrégation des préférences individuelles fait l'objet de recherches dans plusieurs disciplines, en particulier en économie et dans les sciences de la complexité. Elle est par ailleurs au coeur de tout système démocratique. Dans la plupart des pays du monde, l'agrégation des préférences individuelles se fait en deux temps (au moins) : 
 
@@ -16,7 +12,13 @@ La question de l'agrégation des préférences individuelles fait l'objet de rec
 
 "La méthode Condorcet (ou vote Condorcet) est un système de vote dans lequel l'unique vainqueur est celui, s'il existe, qui, comparé tour à tour à tous les autres candidats, s'avèrerait à chaque fois être le candidat préféré." (voir la page Wikipedia [en français](https://fr.wikipedia.org/wiki/M%C3%A9thode_Condorcet) et surtout [en anglais](https://en.wikipedia.org/wiki/Condorcet_method)). Elle est utilisée dans certains organismes, en particulier dans le monde du logiciel libre ([Communauté Debian](https://fr.wikipedia.org/wiki/Debian)). Ce candidat idéal, préféré dans tous les duels, n'existe pas forcément : c'est le paradoxe de Condorcet, pour lequel il existe plusieurs méthodes de résolution.
 
-Dans ce simple exemple des étudiants participant au stage et qui choisissent un projet, il y a déjà deux niveaux d'agrégation : (1) chaque individu a un ordre de préférence qui aboutit à l'ordre de préférence du groupe et (2) chaque groupe a un ordre de préférence qui aboutit à l'ordre de préférence global.
+
+## Présentation du problème
+
+Cet exemple est tiré du stage mutualisé des masters Carthagéo et Géoprisme. Les étudiants participant au stage forment 7 groupes de 3 à 4 étudiants chacun et chaque groupe choisit un projet dans une liste de 7 projets (**liste en annexe**). Dans un tel cas, il y a déjà deux niveaux d'agrégation : 
+
+1. Chaque individu a un ordre de préférence qui aboutit à l'ordre de préférence du groupe
+2. Chaque groupe a un ordre de préférence qui aboutit à l'ordre de préférence global
 
 
 ## Application
