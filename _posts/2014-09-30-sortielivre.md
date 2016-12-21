@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie du livre *R et espace*
+title: Sortie du livre "R et espace"
 subtitle: un livre libre publié chez Framabook
 ---
 
