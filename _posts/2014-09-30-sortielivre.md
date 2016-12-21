@@ -6,7 +6,7 @@ subtitle: un livre libre publié chez Framabook
 
 Le livre [R et espace](https://framabook.org/r-et-espace) vient de sortir chez l’éditeur Framabook !
 
-![](img/retespacecouv.png)
+![](/img/retespacecouv.png)
 
 Ce livre est publié chez [Framabook](https://framabook.org), maison d’édition du réseau [Framasoft](https://framasoft.org) dédié à la promotion de la culture libre. Il peut être acheté en format papier sur le site de l’éditeur, mais on y trouve également le fichier pdf, les jeux de données et les sources LaTeX utilisées pour le produire. Les bénéfices sont reversés à OpenStreetMap France.
 
