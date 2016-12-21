@@ -176,7 +176,7 @@ tabPermutations <- data.frame(projPermutations, SOMME = apply(prefPermutations, 
 hist(tabPermutations$SOMME, col = "firebrick", border = "white")
 ```
 
-![](img/histpreferences.png)
+![](/img/histpreferences.png)
 
 ```r
 indexMin <- which.min(x = tabPermutations$SOMME)
