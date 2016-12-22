@@ -9,21 +9,21 @@ Ce blog est la page github.io du Groupe ElementR. Il rend possible la mise en li
 
 ## Comment publier un billet en deux minutes
 
-**Pour faire un billet sans code R**, écrire directement un document Markdown, le coller dans le répertoire `_posts`, coller les images dans le répertoires `img` et pusher.
+**Pour faire un billet sans code R**, écrire directement un document Markdown, le coller dans le répertoire `_posts`, coller les images dans le répertoire `img` et pusher.
 
 **Pour faire un billet avec du code R** :
 
-1. Concevoir un document RMarkdown à partir de [ce modèle](https://github.com/Groupe-ElementR/Groupe-ElementR.github.io/blob/master/owndata/Template.Rmd)
-2. Tricoter (knit) le document avec le package `knitr`:
+- Concevoir un document RMarkdown à partir de [ce modèle](https://raw.githubusercontent.com/Groupe-ElementR/Groupe-ElementR.github.io/master/owndata/Template.Rmd)
+- Tricoter (knit) le document avec le package `knitr`:
 
 
 ```r
 knit(input = "chemin/fichier.Rmd", output = "chemin/fichier.md")
 ```
 
-3. Nommer le document .md de la façon suivante : `aaaa-mm-jj-montitre.md`, par exemple `2016-10-15-condorcet.md`
-3. Coller le document .md dans le dossier `_posts` et coller les images dans le répertoire `img`
-4. Faire un `commit` et un `push` sur le dépot
+- Nommer le document .md de la façon suivante : `aaaa-mm-jj-montitre.md`, par exemple `2016-10-15-condorcet.md`
+- Coller le document .md dans le dossier `_posts` et coller les images dans le répertoire `img`
+- Faire un `commit` et un `push` sur le dépot
 
 > IMPORTANT : (1) écrire avec un encodage UTF-8 ; (2) donner un nom à tous chunks qui produisent des graphiques.
 
