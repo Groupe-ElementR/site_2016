@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Voici mon titre"
 subtitle: "Je suis l'auteur"
 tags: [montag1, montag2]

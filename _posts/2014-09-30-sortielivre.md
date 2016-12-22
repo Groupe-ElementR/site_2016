@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Sortie du livre "R et espace"
-subtitle: un livre libre publié chez Framabook
-author: Bibi
+subtitle: Hadrien Commenges
 ---
 
 Le livre [R et espace](https://framabook.org/r-et-espace) vient de sortir chez l’éditeur Framabook !

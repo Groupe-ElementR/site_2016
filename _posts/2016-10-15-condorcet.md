@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Condorcet et l'utilité ordinale
-subtitle: agrégation des préférences
+subtitle: Hadrien Commenges
 ---
 
 La question de l'agrégation des préférences individuelles fait l'objet de recherches dans plusieurs disciplines, en particulier en économie et dans les sciences de la complexité. Elle est par ailleurs au coeur de tout système démocratique. Dans la plupart des pays du monde, l'agrégation des préférences individuelles se fait en deux temps (au moins) : 
