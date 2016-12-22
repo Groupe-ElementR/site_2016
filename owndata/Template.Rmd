@@ -1,0 +1,21 @@
+---
+title: "Voici mon titre"
+subtitle: "Je suis l'auteur"
+tags: [montag1, montag2]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = "img/")
+knitr::opts_knit$set(base.url = "/")
+```
+
+Courte introduction sur le thème du post. Important de ne pas commencer directement le texte par un titre de section.
+
+## Titre de section
+
+Lorem ipsum
+
+```{r un-nom-de-chunk}
+
+```
+
