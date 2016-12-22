@@ -13,7 +13,7 @@ Ce blog est la page github.io du Groupe ElementR. Il rend possible la mise en li
 
 **Pour faire un billet avec du code R** :
 
-1. Concevoir un document RMarkdown à partir de [ce modèle]().
+1. Concevoir un document RMarkdown à partir de [ce modèle](https://github.com/Groupe-ElementR/Groupe-ElementR.github.io/blob/master/owndata/Template.Rmd)
 2. Tricoter (knit) le document avec le package `knitr`:
 
 
