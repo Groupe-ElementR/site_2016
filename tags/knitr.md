@@ -1,0 +1,4 @@
+---
+slug: knitr
+name: knitr
+---
