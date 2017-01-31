@@ -1,8 +1,8 @@
 # --- General options --- #
 collections:
-  my_tags:
+  tags:
     output: true
-    permalink: /blog/tag/:name/
+    permalink: /tags/:name/
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
