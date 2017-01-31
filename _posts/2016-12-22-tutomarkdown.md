@@ -1,6 +1,7 @@
 ---
 title: "Comment écrire des billets pour ce blog?"
 subtitle: "Hadrien Commenges"
+tags: [markdown, git, knitr]
 ---
 
 
